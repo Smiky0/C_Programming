@@ -1,2 +1,2 @@
 # C_Programming
-Stores C programmings
+Practice problems for C Language
